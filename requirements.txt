@@ -6,3 +6,5 @@ matplotlib
 seaborn
 dash
 plotly
+streamlit
+flask
