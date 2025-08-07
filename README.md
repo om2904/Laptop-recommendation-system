@@ -27,7 +27,7 @@ A simple and interactive **Laptop Recommendation System** built using Python, St
 
 ## 📂 Project Structure
 
-Laptop-recommendation-system/
+Laptop-recommendation-system
 │
 ├── app.py # Main Streamlit app
 ├── model.py # ML model logic
@@ -35,3 +35,15 @@ Laptop-recommendation-system/
 ├── visuals/ # Dash visualizations
 ├── requirements.txt # Python dependencies
 └── README.md # You're here!
+
+# Clone the repository
+git clone https://github.com/om2904/Laptop-recommendation-system.git
+
+# Move into the directory
+cd Laptop-recommendation-system
+
+# Install the required packages
+pip install -r requirements.txt
+
+#Run app
+streamlit run app.py
