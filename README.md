@@ -45,6 +45,6 @@ cd Laptop-recommendation-system
 # Install the required packages
 pip install -r requirements.txt
 
-#Run app
+## Run app
 
 streamlit run app.py
